@@ -40,7 +40,7 @@ Ce qui est bien c'est que tu peux cumuler les navigations.
 C'est une notion assez complexe, alors je te met la doc et si jamais t'as besoin d'un exemple plus poussé hésite pas à me demander.
 - Doc : [Context](https://react.dev/learn/passing-data-deeply-with-context)
 
-Fonction que tu retrouves dans la doc du `Context`
+Fonctions que tu retrouves dans la doc du `Context`
 - [createContext](https://react.dev/reference/react/createContext)
 - [useContext](https://react.dev/reference/react/useContext)
 
