@@ -2,7 +2,7 @@
 Créer un nouveau projet
 ```sh
 $ npx create-expo-app --template
-	> Blank (Typescript)
+  > Blank (Typescript)
 ```
 
 Le projet se créer avec `npm` mais je te conseille d'utiliser `yarn` pour du ***React Native***.
