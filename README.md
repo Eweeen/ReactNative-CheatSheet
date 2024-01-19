@@ -16,7 +16,7 @@ $ yarn install
 
 _(il y a des warnings mais t'inquiètes ça fait ça quand c'est neuf)_
 
-Faudra installer l'app `Expo Go`, et pour lancer ton app tu run la cmd en dessous et tu scan le qr code
+Faudra installer `Expo Go` sur ton bigo. Pour lancer ton app tu run la cmd en dessous et tu scan le qr code
 
 ```sh
 $ npx expo start
