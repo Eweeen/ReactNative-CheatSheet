@@ -15,6 +15,7 @@ Créer les fichiers suivants:
     "node": true
   },
   "extends": [
+    "plugin:@typescript-eslint/recommended",
     "plugin:react/recommended",
     "plugin:react-hooks/recommended",
     "prettier"
