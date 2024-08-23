@@ -30,7 +30,7 @@ La base évidemment, petit dossier `src/` à la racine du projet.
 Pour les dossiers qui vont se retrouver dans le `src/`, je te met à gauche l'équivalent **_Vue.js_** (si le dossier n'a pas le même nom mais sert à la même chose) et à droite la convention **_React Native_** (convention que j'ai trouvé et que j'ai décidé d'appliquer).
 
 - `views` => `screens` | Pages principales de ton app (_Login_, _SignUp_, _Home_, _Profile_, etc.)
-- `components` | Les composants réutilisables pour ton app (\*ewi comme en **Vue.js\***), ne pas hésiter à faire des composants pour les `boutons`, `inputs`, etc.
+- `components` | Les composants réutilisables pour ton app (*ewi comme en **Vue.js***), ne pas hésiter à faire des composants pour les `boutons`, `inputs`, etc.
 - `interfaces` | C'est du `Typescript` alors oui tu auras sûrement besoin d'interfaces
 - `services` | Si besoin de se connecter à une API, les services qui sont bien utiles
 - `utils` | Pour les fonctions globales à ton app (encore une fois, pareil que pour **_Vue.js_**)
